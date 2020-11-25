@@ -1,3 +1,4 @@
+#! /bin/bash
 echo "set nu" >> /etc/vim/vimrc
 echo "set hls" >> /etc/vim/vimrc
 echo "set smarttab" >> /etc/vim/vimrc
